@@ -1,4 +1,4 @@
-- use venv first
+- use venv first 
 MOTIVATION
 Target users: AI/ML researchers, cloud service providers, policymakers, corporate sustainability teams, and the general public.
 Pain point: Lack of intuitive, predictive tools to estimate the energy consumption and carbon footprint of different AI mode
