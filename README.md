@@ -5,7 +5,7 @@ A practical system for predicting and analyzing carbon emissions from AI model t
 ## 📊 Project Overview
 
 This project addresses the critical need for **accurate AI carbon emission predictions** by combining:
-- **75 real carbon measurements** from HuggingFace models (largest known dataset)
+- **75 real carbon measurements** from HuggingFace models (largest known dataset)+
 - **Physical formula baselines** from ML CO2 methodology
 - **Practical estimation rules** derived from academic benchmarks
 - **API integrations** with professional carbon tracking tools
