@@ -2,7 +2,7 @@
 
 ## 1. CodeCarbon (开源库) ⭐⭐⭐⭐⭐
 **网址**: https://github.com/mlco2/codecarbon
-
+  
 ### 特点
 - **实时测量**: 直接测量你的训练过程
 - **零配置**: pip install即可使用
