@@ -6,7 +6,7 @@ l configurat  ions. People are not aware that each interaction with AI models us
 (parameter size, hardware, training epochs).   
 Value: Provide data-driven guidance for green AI design, supporting ESG reporting and carbon-neutral & sustainable strategies.
  
-  
+    
 DATA COLLECTION  
 Data sources: MLCO2 Impact, Hugging Face model cards for training energy data; (optional)cloud provider APIs (AWS/Azure/GCP) for cost or energy estimates; academic papers for model parameters, hardware configurations, and training duration.
 
