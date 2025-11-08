@@ -2,6 +2,8 @@
 """
 📊 比较纯物理公式 vs 混合预测系统的性能
 使用CodeCarbon真实数据作为ground truth
+
+Hi`
 """
 
 import pandas as pd
